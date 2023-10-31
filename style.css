@@ -42,7 +42,7 @@ nav ul li a:focus {
     background-repeat: no-repeat;
     background-size: 100%;
     text-align: center;
-    padding: 203px;
+    padding: 190px;
 }
 .titulo{
     color: #FFFFFF;
@@ -51,6 +51,7 @@ nav ul li a:focus {
     color: #FFFFFF;
 }
 .btn1{
+    font-size:larger;
     color: #433E1F;
     padding: 15px;
     background-color: #FFFFFF;
@@ -77,7 +78,7 @@ nav ul li a:focus {
 }
 .imgs2{
     padding: 20px 0 20px 20px;
-    width: 620px;
+    width: 655px;
     height: 400px;
 }
 .div3{
@@ -91,7 +92,7 @@ nav ul li a:focus {
 }
 .imgs4{
     padding: 20px 0 20px 20px;
-    width: 533px;
+    width: 568px;
     height: 400px;
 }
 .div4{
@@ -104,28 +105,28 @@ nav ul li a:focus {
     font-size: 20px;
     color: #C3C63B;
 }
-.imgss1{
-    width: 30px;
-}
 .div5{
     text-align: center;
     color: #FFFFFF;
     background-color: #191C03;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
     padding: 30px;
 }
 .div6{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
     text-align: center;
     color: #C3C63B;
-    padding: 100px;
+    padding: 150px;
 }
 .input{
     border: 1px solid #C3C63B;
     border-radius: 2px;
     padding: 15px 15px 15px 15px;
-    width: 610px;
+    width: 570px;
 }
 .btn{
     color: #FFFFFF;
@@ -136,8 +137,11 @@ nav ul li a:focus {
     margin-left: 20px;
 }
 .final{
-    padding: 30px;
+    padding: 50px;
     text-align: center;
     color: #C3C63B;
     background-color: #393F06;
+}
+.imgss1{
+    width: 48px;
 }

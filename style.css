@@ -49,30 +49,32 @@ nav ul li a:focus {
     background-repeat: no-repeat;
     background-size: 100%;
     text-align: center;
-    padding: auto;
-    padding-top: 100px;
-    padding-bottom: 297px;
+    padding-top: 200px;
+    padding-bottom: 200px;
     width: auto;
 }
 .titulo{
     color: #FFFFFF;
+    font-size: 170%;
 }
 .texto1{
     color: #FFFFFF;
+    font-size: 80%;
 }
 .btn1{
-    font-size:larger;
+    font-size: 60%;
     color: #433E1F;
     padding: 15px;
     background-color: #FFFFFF;
     border: 1px solid #FFFFFF;
     border-radius: 5px;
-    width: 200px;
+    width: 100px;
 }
 
 .div1{
+    font-size: 80%;
     text-align: center;
-    padding: 100px;
+    padding: 50px;
 }
 .div2{
     background-color: #C3C63B;
@@ -110,9 +112,9 @@ nav ul li a:focus {
     background-color: #191C03;
     padding: 30px;
     width: auto;
+    font-size: 80%;
 }
 .texto{
-    font-size: 20px;
     color: #C3C63B;
 }
 .div5{
@@ -124,6 +126,7 @@ nav ul li a:focus {
     justify-content: space-between;
     padding: 30px;
     width: auto;
+    font-size: 80%;
 }
 .div6{
     display: flex;
@@ -131,7 +134,8 @@ nav ul li a:focus {
     justify-content: space-evenly;
     text-align: center;
     color: #C3C63B;
-    padding: 150px;
+    padding: 10%;
+    font-size: 80%;
 }
 .input{
     border: 1px solid #C3C63B;
@@ -148,14 +152,15 @@ nav ul li a:focus {
     margin-left: 20px;
 }
 .final{
+    font-size: 70%;
     padding: 50px;
     text-align: center;
     color: #C3C63B;
     background-color: #393F06;
 }
 .imgss{
-    width: 18%;
+    width: 50px;
 }
 .imgss1{
-    width: 5%;
+    width: 50px;
 }

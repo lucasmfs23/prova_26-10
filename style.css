@@ -3,7 +3,7 @@
     flex-direction: column;
     margin: 0;
 }
-@media screen and (max-width: 600px) {
+@media screen and (min-width: 768px) {
     .container{
         width: 100%;
         flex-direction: column;
@@ -16,7 +16,7 @@
     width: auto;
 }
 .imgs{
-    width: 15%;
+    width: 200px;
     height: 50px;
 }
 .nav {

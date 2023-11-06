@@ -7,7 +7,7 @@ body{
     background-color: #9D8080;
     display: flex;
     justify-content: space-between;
-    width: 100%;
+    width: auto;
 }
 .imgs{
     width: 200px;
@@ -43,7 +43,10 @@ nav ul li a:focus {
     background-repeat: no-repeat;
     background-size: 100%;
     text-align: center;
-    padding: 190px;
+    padding: auto;
+    padding-top: 100px;
+    padding-bottom: 297px;
+    width: auto;
 }
 .titulo{
     color: #FFFFFF;
@@ -86,7 +89,7 @@ nav ul li a:focus {
 .div3{
     background-color: #C3C63B;
     display: flex;
-    width: 100%;
+    width: auto;
 }
 .imgs3{
     padding: 20px 30px 40px 30px;
@@ -103,6 +106,7 @@ nav ul li a:focus {
     text-align: center;
     background-color: #191C03;
     padding: 30px;
+    width: auto;
 }
 .texto{
     font-size: 20px;
@@ -116,6 +120,7 @@ nav ul li a:focus {
     flex-direction: row;
     justify-content: space-between;
     padding: 30px;
+    width: auto;
 }
 .div6{
     display: flex;

@@ -1,7 +1,13 @@
-body{
+.container{
     display: flex;
     flex-direction: column;
     margin: 0;
+}
+@media screen and (max-width: 768px) {
+    .container{
+        width: 100%;
+        flex-direction: column;
+    }
 }
 .header{
     background-color: #9D8080;

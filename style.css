@@ -7,6 +7,7 @@ body{
     background-color: #9D8080;
     display: flex;
     justify-content: space-between;
+    width: 100%;
 }
 .imgs{
     width: 200px;
@@ -70,6 +71,7 @@ nav ul li a:focus {
 .div2{
     background-color: #C3C63B;
     display: flex;
+    width: 100%;
 }
 .imgs1{
     padding: 20px 30px 40px 30px;
@@ -84,6 +86,7 @@ nav ul li a:focus {
 .div3{
     background-color: #C3C63B;
     display: flex;
+    width: 100%;
 }
 .imgs3{
     padding: 20px 30px 40px 30px;
